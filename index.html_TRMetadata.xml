@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracking-metadata version="1.0" xmlns="http://breeze.macromedia.com/ns/tracking-metadata" generator="Adobe Captivate 8">
+<objective id="Quiz_2019625161720" passing-score="32" min-score="0" max-score="40" max-questions="4">
+<name>Quiz</name>
+<interactions>
+<interaction id="43112" type="choice" quiz-type="normal" correct-response="B">
+<name>Multiple Choice</name>
+<title>Select the appropriate introduction from the options below.</title>
+<responses>
+<response id="A">“Hi, I’m {{your name}} with Instacart Care. Am I speaking with {name on account}?”</response>
+<response id="B">“Hi, I’m {{your name}} with Instacart Care. Before we begin, please provide the phone number for your account.”</response>
+</responses>
+</interaction>
+<interaction id="46814" type="choice" quiz-type="normal" correct-response="A">
+<name>Multiple Choice</name>
+<title>Select the appropriate introduction from the options below.</title>
+<responses>
+<response id="A">“Hi, I’m {{your name}} with Instacart Care. Before we begin, please provide the phone number for your account?”</response>
+<response id="B">“Hi, I’m {{your name}} with Instacart Care. Can you please provide the email address associated with your account?”</response>
+</responses>
+</interaction>
+<interaction id="47061" type="choice" quiz-type="normal" correct-response="B">
+<name>Multiple Choice</name>
+<title>Select the appropriate introduction from the options below.</title>
+<responses>
+<response id="A">“Hi, I’m {{your name}} with Instacart Care. Am I speaking with {name on account}?”</response>
+<response id="B">“Hi, I’m {{your name}} with Instacart Care. Before we begin, please provide the phone number for your account.”</response>
+</responses>
+</interaction>
+<interaction id="47302" type="choice" quiz-type="normal" correct-response="A">
+<name>Multiple Choice</name>
+<title>Select the appropriate introduction from the options below.</title>
+<responses>
+<response id="A">“Hi, I’m {{your name}} with Instacart Care. Am I speaking with {name on account}?”</response>
+<response id="B">“Hi, I’m {{your name}} with Instacart Care. Before we begin, please provide the phone number for your account.”</response>
+</responses>
+</interaction>
+</interactions>
+</objective>
+</tracking-metadata>
